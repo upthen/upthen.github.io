@@ -3,7 +3,7 @@ title: How to configure your github pages
 description: >-
   Get started with Chirpy basics in this comprehensive overview.
   You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
-author: Robert Zeng
+author: upthen
 date: 2024-04-21 22:00:00 +0800
 categories: [Blogging, Tutorial]
 tags: [github pages]
